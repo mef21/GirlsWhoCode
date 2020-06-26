@@ -54,6 +54,6 @@ likes_ice_cream = True
 ```
 ### In Python: Let's Do Some Math!
 Operations:
-* + Addition
-* - Subtraction
-* \* Multiplication
+* '+' Addition
+* '-' Subtraction
+* '*' Multiplication

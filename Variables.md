@@ -66,3 +66,4 @@ likes_ice_cream = True
 * Addition
 * Subtraction
 #### Modulus: %
+Remainder - Leftover from division

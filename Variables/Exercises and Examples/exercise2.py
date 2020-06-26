@@ -4,33 +4,30 @@ WELCOME TO VARIABLES EXERCISE 1
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Variables; cd 'Exercises and Examples'; python3 exercise1.py"
+run = "cd Variables; cd 'Exercises and Examples'; python3 exercise2.py"
 
-For examples please refer to the example1.py file
+For examples please refer to the example2.py file
 
 Start with the base code below 
 
-GOAL: Try to swap the variables color1 and color2
+combine var1 and var2 to print out True
 
 """
 
 """ BASE CODE STARTS HERE """
 
-color1 = "red"
-color2 = "blue"
+var1 = False
+var2 = False
 
 """ YOUR CODE STARTS HERE """
 
 
 """ CHECK YOUR RESULTS - DO NOT CHANGE CODE BELOW """
-print("color1: " + color1)
-print("color2: " + color2)
-
+print("var3: " + var3)
 
 """ 
 This should print out: 
 
-color1: blue
-color2: red
+var3: True
 
 """

@@ -1,13 +1,11 @@
 """
-WELCOME TO CONDTIONALS EXAMPLE 1
+WELCOME TO CONDITIONAL EXAMPLES
 
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Conditionals; cd 'Exercises and Examples'; python3 example1.py"
+run = "cd Conditionals; cd 'Exercises and Examples'; python3 examples.py"
 
-
-Below are a series of examples using different types of variables and how to manipulate them: 
 
 """
 
@@ -42,3 +40,11 @@ elif(x == y):
   print("x is equal to y")
 else:
   print("x is greater than y")
+
+""" EXAMPLE 5 - Nested if statements """
+temperature = 80
+if(temperature >= 80):
+  print("It is hot")
+  if(temperature >= 100):
+    print("You should stay indoors")
+  

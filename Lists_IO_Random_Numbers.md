@@ -17,8 +17,7 @@ ages = [15, 16, 20, 18]
 #### List Indexing
 * Index: where an element is in a list
 * List indices start at 0 and end at (length of array -1)
-Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+* Example:
+    | 0 | 1 | 2 | 3 |
+    | ----- | ----- | ----- | ----- |
+    | "Big Hero 6" | "Avengers" | "Quiet Place" | "Martian" |

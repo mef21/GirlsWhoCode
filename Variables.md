@@ -20,6 +20,19 @@ Variable Names:
 * Separate words by _
 * Make them descriptive
 * Cannot start with number or symbol (!, @, etc.)
+
+### In Python: Variable Types:
+* Strings: collection of letters, numbers or symbols in double quotes
+** Ex: "Hello, my name is Maddy"
+* Chars: single letter, number, or symbol in single quotes
+** Ex: 'a', ';', ' ', '!', etc.
+* Integer: Whole numbers
+** Ex: 1, 5, 463836, 472, 36283
+* Floats: decimal numbers
+** Ex: 0.0, 1.0, 1.5, 3.1483
+* Boolean: True or False expression
+** Ex: True, False, (7 > 0)
+
 ### In Python: Strings
 Strings need quotes around words:
 variable_name = "value"
@@ -39,3 +52,4 @@ variable_name = value
 ```python
 likes_ice_cream = True
 ```
+

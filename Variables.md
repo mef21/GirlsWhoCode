@@ -23,15 +23,15 @@ Variable Names:
 
 ### In Python: Variable Types:
 * Strings: collection of letters, numbers or symbols in double quotes
-** Ex: "Hello, my name is Maddy"
+  * Ex: "Hello, my name is Maddy"
 * Chars: single letter, number, or symbol in single quotes
-** Ex: 'a', ';', ' ', '!', etc.
+  * Ex: 'a', ';', ' ', '!', etc.
 * Integer: Whole numbers
-** Ex: 1, 5, 463836, 472, 36283
+  * Ex: 1, 5, 463836, 472, 36283
 * Floats: decimal numbers
-** Ex: 0.0, 1.0, 1.5, 3.1483
+  * Ex: 0.0, 1.0, 1.5, 3.1483
 * Boolean: True or False expression
-** Ex: True, False, (7 > 0)
+  * Ex: True, False, (7 > 0)
 
 #### In Python: Strings
 Strings need quotes around words:

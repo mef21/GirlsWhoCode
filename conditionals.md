@@ -106,3 +106,69 @@ Boolean operators are symbols or words to represent English logic and make compa
 * 4 is __less than__ 6
 * 10 is __less than or equal to__ 10
 ### In Python: Operators
+#### Equality 
+* ==
+* Examples:
+  * if(10 == 10)
+  * if(5 == 10)
+  * if(string == "hello world") 
+#### Less Than, Greater Than
+* <, >
+* Examples:
+  * if (4 < 5)
+  * if (5 > 5)
+#### Less Than or Equal, Greater Than or Equal
+* <=, >=
+* Examples
+  * if(4 <= 5)
+  * if(5 >= 5)
+#### Operators and Parentheses
+* We use parentheses to make conditionals more readable adn the logic more clear
+* Do things inside parentheses first
+  * Like PEMDAS in math!
+* Examples:
+  * if( 4 + 9 + 9 == 9 * 2)
+  * if( (4 + 9 + 9) == (9 * 2))
+### In Python: User Input
+#### How To:
+* Oftentimes you are going to want to ask the user for input and make decisions based on this input
+* Example:
+```python
+answer = input("Are you happy? ")
+if(answer == "Yes"):
+  print("I'm glad you are happy! :)")
+else:
+  print("Don't be sad. Be GLAD")
+```
+### In Python: Nesting
+* You can put if/elif/else statements inside other if/elif/else statements
+* Example:
+```python
+temperature = 80
+if(temperature >= 80):
+  print("It is hot")
+  if(temperature >= 100):
+    print("You should stay indoors")
+```
+### In Python: Boolean Operators
+*Examples of Boolean Operators
+  * If you pay attention to this class __and__ you ask questions, you will learn Python. Else, you might miss something.
+  * If you know python __or__ javascript, you can code.
+#### Operator: __and__
+* All conditions have to be true for the statement to be true
+* Examples:
+  * if(10 == 10 __and__ 5 == 5)
+  * if(string == "hello" and 1 == 1)
+#### Operator: __or__
+* Only one condition has to be true for the statement to be true
+* Examples:
+  * if (1 == 10 __or__ 5 == 5)
+  * if (5 == 10 __or__ 1 == 1)
+####  Operator: __not__
+* !
+* Examples:
+  * if(4 != 5)
+  * if(5 != 5)
+  * Tricky because you have to remember to flip
+    * True --> False
+    * False --> True

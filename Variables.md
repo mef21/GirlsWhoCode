@@ -65,3 +65,4 @@ likes_ice_cream = True
 * Division
 * Addition
 * Subtraction
+#### Modulus: %

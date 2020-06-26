@@ -12,6 +12,8 @@ Start with the base code below
 
 GOAL: Ask the user for their age. Determine if the user was born before or after 2000. Pretend it is 12/31 and everyone has already had their birthday this year
 
+Challenge: determine if the user was born before 2000, after 2000 but before 2005, and after 2005 using if, elif, and else. 
+
 """
 
 """ BASE CODE STARTS HERE - DO NOT CHANGE CODE BELOW """

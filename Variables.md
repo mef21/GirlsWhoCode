@@ -24,4 +24,4 @@ Variable Names:
 Strings need quotes around words:
 ```python
 favorite_food = "ice cream and french fries"
-'''
+```

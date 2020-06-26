@@ -54,7 +54,7 @@ likes_ice_cream = True
 ```
 ### In Python: Let's Do Some Math!
 Operations:
-* Addition (\+)
-* Subtraction (\-)
-* Multiplication (\*)
-* Division (\/)
+* Addition (5 \+ 5)
+* Subtraction (10 \- 3)
+* Multiplication ( 3 \* 1)
+* Division (6 \/ 2)

@@ -4,7 +4,7 @@ WELCOME TO VARIABLES EXERCISE 1
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Variables; cd 'Exercises and Examples'; python3 sol_exercise1.py"
+run = "cd Variables; cd solutions; python3 sol_exercise1.py"
 
 For examples please refer to the example1.py file
 

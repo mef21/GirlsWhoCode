@@ -8,7 +8,7 @@ run = "cd Lists_IO_Random; cd 'Exercises and Examples'; python3 file_io_examples
 
 """
 # this is where the file is located
-file_path1 = "./text_files/hello1.txt"
+file_path1 = "../text_files/hello1.txt"
 
 # r means you want to read the file
 f = open(file_path1, "r")
@@ -17,7 +17,7 @@ print(contents1)
 f.close()
 
 contents2 = "Hello to this new file\n"
-file_path2 = "./text_files/hello2.txt"
+file_path2 = "../text_files/hello2.txt"
 f = open(file_path2, "w")
 f.write(contents2)
 f.close()

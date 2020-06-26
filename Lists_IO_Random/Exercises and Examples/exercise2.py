@@ -16,7 +16,7 @@ GOAL: Write to a file called “RandomNumbers.txt” the following text: “Toda
 
 """ BASE CODE STARTS HERE - DO NOT CHANGE CODE BELOW """
 import random
-file_path = "./text_files/RandomNumbers.txt"
+file_path = "../text_files/RandomNumbers.txt"
 
 """ YOUR CODE STARTS HERE """
 

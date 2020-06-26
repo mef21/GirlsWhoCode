@@ -4,7 +4,7 @@ WELCOME TO LISTS_IO_RANDOM EXERCISE 2
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Lists_IO_Random; cd 'Exercises and Examples'; cd solutions; python3 sol_exercise2.py"
+run = "cd Lists_IO_Random; cd solutions; python3 sol_exercise2.py"
 
 For examples please refer to the example files
 

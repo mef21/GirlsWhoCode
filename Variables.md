@@ -20,3 +20,8 @@ Variable Names:
 * Separate words by _
 * Make them descriptive
 * Cannot start with number or symbol (!, @, etc.)
+### In Python: Strings
+Strings need quotes around words:
+```python
+favorite_food = "ice cream and french fries"
+'''

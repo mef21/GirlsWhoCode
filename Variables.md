@@ -22,6 +22,20 @@ Variable Names:
 * Cannot start with number or symbol (!, @, etc.)
 ### In Python: Strings
 Strings need quotes around words:
+variable_name = "value"
+Ex:
 ```python
 favorite_food = "ice cream and french fries"
+```
+### In Python: Numbers:
+variable_name = value
+Ex:
+```python
+five_as_an_integer = 5
+five_as_a_float = 5.0
+```
+### In Python: Boolean
+variable_name = value
+```python
+likes_ice_cream = True
 ```

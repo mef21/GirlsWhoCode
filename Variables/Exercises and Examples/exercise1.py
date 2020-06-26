@@ -6,20 +6,13 @@ BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 language = "python3"
 run = "cd Variables; cd exercise1; python3 exercise1.py"
 
+For examples please refer to the example1.py file
 
 Start with the base code below 
 
-Example:  
-
-print out the value of a_string with other text such that the output is: 
-  hello world! Have a great day! Python is cool.
-
-Try to: 
-
+GOAL: Try to swap the variables color1 and color2
 
 """
-a_string = "hello world"
-print(a_string + "Have a great day! Python is cool.")
 
 """ BASE CODE STARTS HERE """
 

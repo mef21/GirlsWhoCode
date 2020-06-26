@@ -69,6 +69,6 @@ likes_ice_cream = True
 Remainder
 * Leftover from division
 * EX:
-** 6 % 3 = 0
-** 2 % 3 = 2
-** 10 % 3 = 1
+* 6 % 3 = 0
+* 2 % 3 = 2
+* 10 % 3 = 1

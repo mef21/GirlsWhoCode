@@ -1,6 +1,6 @@
 # Variables
 Definition: Something that stores other things
-## What is a variable? 
+## What is a Variable? 
 Here are three example sentences: 
 
 * I like ice cream and french fries
@@ -68,7 +68,12 @@ likes_ice_cream = True
 #### Modulus: %
 Remainder
 * Leftover from division
-* EX:
+* Ex:
   * 6 % 3 = 0
   * 2 % 3 = 2
   * 10 % 3 = 1
+* Anything % 10 results in the last digit
+* Ex:
+  * 123 % 10 = 3
+  * 12 % 10 = 2
+  * 1 % 10 = 1

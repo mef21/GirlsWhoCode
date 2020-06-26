@@ -1,2 +1,2 @@
 language = "python3"
-run = "cd Variables; cd 'Exercises and Examples'; python3 example2.py"
+run = "cd Conditionals; cd 'Exercises and Examples'; python3 exercise2.py"

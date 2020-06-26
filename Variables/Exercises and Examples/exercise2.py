@@ -10,11 +10,11 @@ For examples please refer to the example2.py file
 
 Start with the base code below 
 
-combine var1 and var2 to print out True
+GOAL: combine var1 and var2 to print out True
 
 """
 
-""" BASE CODE STARTS HERE """
+""" BASE CODE STARTS HERE - DO NOT CHANGE CODE BELOW """
 
 var1 = False
 var2 = False

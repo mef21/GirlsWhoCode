@@ -14,7 +14,7 @@ GOAL: Try to swap the variables color1 and color2
 
 """
 
-""" BASE CODE STARTS HERE """
+""" BASE CODE STARTS HERE - DO NOT CHANGE CODE BELOW """
 
 color1 = "red"
 color2 = "blue"

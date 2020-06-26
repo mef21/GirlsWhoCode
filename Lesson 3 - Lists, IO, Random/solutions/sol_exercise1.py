@@ -4,7 +4,7 @@ WELCOME TO LISTS_IO_RANDOM EXERCISE 1
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Lists_IO_Random; cd 'Exercises and Examples'; python3 exercise1.py"
+run = "cd 'Lesson 3 - Lists, IO, Random'; cd solutions; python3 sol_exercise1.py"
 
 For examples please refer to the example files
 
@@ -23,6 +23,12 @@ import random
 fortunes = ["Lucky!", "Happines", "Neutral", "Funny", "Challenge", "Rich"]
 
 """ YOUR CODE STARTS HERE """
+
+answer = input("Even (E) or Odd (O)? ")
+if(answer == "E"):  
+  print(fortunes[random.choice([0, 2, 4])])
+else:
+  print(fortunes[random.choice([1, 3, 5])])
 
 
 

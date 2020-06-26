@@ -4,7 +4,7 @@ WELCOME TO ARRAY/List EXAMPLES
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Lists_IO_Random; cd 'Exercises and Examples'; python3 array_examples.py"
+run = "cd 'Lesson 3 - Lists, IO, Random'; cd examples; python3 array_examples.py"
 
 """
 

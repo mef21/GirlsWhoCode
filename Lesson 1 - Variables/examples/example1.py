@@ -4,7 +4,7 @@ WELCOME TO VARIABLES EXAMPLE 1
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Variables; cd 'Exercises and Examples'; python3 example1.py"
+run = "cd 'Lesson 1 - Variables'; cd examples; python3 example1.py"
 
 
 Below are a series of examples using different types of variables and how to manipulate them: 

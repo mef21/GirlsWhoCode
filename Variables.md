@@ -33,28 +33,35 @@ Variable Names:
 * Boolean: True or False expression
 ** Ex: True, False, (7 > 0)
 
-### In Python: Strings
+#### In Python: Strings
 Strings need quotes around words:
 variable_name = "value"
 Ex:
 ```python
 favorite_food = "ice cream and french fries"
 ```
-### In Python: Numbers:
+#### In Python: Numbers:
 variable_name = value
 Ex:
 ```python
 five_as_an_integer = 5
 five_as_a_float = 5.0
 ```
-### In Python: Boolean
+#### In Python: Boolean
 variable_name = value
 ```python
 likes_ice_cream = True
 ```
 ### In Python: Let's Do Some Math!
-Operations:
+#### Operations:
 * Addition (5 \+ 5)
 * Subtraction (10 \- 3)
 * Multiplication ( 3 \* 1)
 * Division (6 \/ 2)
+#### Order of Operations
+* Parentheses
+* Exponent
+* Multiplication
+* Division
+* Addition
+* Subtraction

@@ -1,2 +1,2 @@
 language = "python3"
-run = "cd 'Lesson 4 - Loops'; cd examples; clear; python3 while_examples.py"
+run = "cd 'Lesson 4 - Loops'; cd solutions; clear; python3 sol_exercise1.py"

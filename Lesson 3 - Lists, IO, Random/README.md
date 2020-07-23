@@ -36,6 +36,9 @@ best_movies[0] = "Spiderman"
     | 0 | 1 | 2 | 3 |
     | ----- | ----- | ----- | ----- |
     | "Spiderman" | "Avengers" | "Quiet Place" | "Martian" |
+    
+### Review
+[![Python List Video](http://img.youtube.com/vi/ohCDWZgNIU0/0.jpg)](http://www.youtube.com/watch?v=ohCDWZgNIU0 "Python Lists || Python Tutorial || Learn Python Programming")
 ## IO
 ### User Input
 ```python

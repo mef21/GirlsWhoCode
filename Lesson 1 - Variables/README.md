@@ -66,6 +66,8 @@ likes_ice_cream = True
 * Addition
 * Subtraction
 #### Modulus: %
+[![Modulus Video](http://img.youtube.com/vi/MrTtsX2Wg9Q/0.jpg)](http://www.youtube.com/watch?v=MrTtsX2Wg9Q "Modulus Operator - CS101 - Udacity")
+
 Remainder
 * Leftover from division
 * Ex:

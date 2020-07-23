@@ -7,6 +7,8 @@ language = "python3"
 run = "cd 'Lesson 5 - Functions'; cd examples; clear; python3 example2.py"
 
 """
+
+
 def add_two(arr): 
   for i in range(0, (len(arr))):
     arr[i]= arr[i] + 2
@@ -26,5 +28,7 @@ def add_twoo(arr):
   return arr
 
 print(add_twoo([6, 8, 9, 10, 11, 15, 12, 50]))
+print(add_two([6, 8, 9, 10, 11, 15, 12, 50]))
+
 print(add_two([1,2,4,5]))
 print(count_as(['w', 'a', 'r', 'a', 'a']))

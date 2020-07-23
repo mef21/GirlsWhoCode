@@ -61,3 +61,6 @@ for item in shopping_list:
 print(range(-10, 1))
 ```
 * The output of the above snippet is: [-10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 0]
+
+### Review
+[![Python Loops Video](http://img.youtube.com/vi/6iF8Xb7Z3wQ/0.jpg)](http://www.youtube.com/watch?v=6iF8Xb7Z3wQ "Python Tutorial for Beginners 7: Loops and Iterations - For/While Loops")

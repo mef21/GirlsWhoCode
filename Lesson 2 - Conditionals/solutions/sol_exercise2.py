@@ -4,7 +4,7 @@ WELCOME TO CONDITIONALS SOLUTIONS EXERCISE 2
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd Conditionals; cd solutions; python3 sol_exercise2.py"
+run = "cd Conditionals; cd solutions; clear; python3 sol_exercise2.py"
 
 For examples please refer to the example2.py file
 

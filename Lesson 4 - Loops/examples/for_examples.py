@@ -4,7 +4,7 @@ WELCOME TO FOR LOOP EXAMPLES
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd 'Lesson 4 - Loops'; cd examples; python3 for_examples.py"
+run = "cd 'Lesson 4 - Loops'; cd examples; clear; python3 for_examples.py"
 
 """
 

@@ -4,7 +4,7 @@ WELCOME TO CONDITIONALS EXERCISE 1
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd 'Lesson 2 - Conditionals'; cd exercises; python3 exercise1.py"
+run = "cd 'Lesson 2 - Conditionals'; clear; cd exercises; python3 exercise1.py"
 
 For examples please refer to the example1.py file
 

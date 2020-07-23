@@ -4,7 +4,7 @@ WELCOME TO Standard Input and Output EXAMPLES
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd 'Lesson 3 - Lists, IO, Random'; cd examples; python3 std_io_examples.py"
+run = "cd 'Lesson 3 - Lists, IO, Random'; cd examples; clear; python3 std_io_examples.py"
 
 """
 # Takes in a string

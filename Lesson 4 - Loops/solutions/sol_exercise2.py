@@ -1,10 +1,10 @@
 """
-WELCOME TO LOOPS EXERCISE 2
+WELCOME TO LOOPS SOLUTION EXERCISE 2
 
 BEFORE YOU DO ANY CODING COPY THE BELOW TEXT INTO THE .replit FILE
 
 language = "python3"
-run = "cd 'Lesson 4 - Loops'; cd exercises; clear; python3 exercise2.py"
+run = "cd 'Lesson 4 - Loops'; cd solutions; clear; python3 sol_exercise2.py"
 
 For examples, please refer to the example files
 
@@ -26,7 +26,21 @@ print(welcome_text)
 user_input = "nothing yet"
 
 """ YOUR CODE STARTS HERE """
- 
+while(user_input != "3"):
+  user_input = input(menu_text)
+  if(user_input == "1"):
+    u1 = int(input("Enter the first number: "))
+    u2 = int(input("Enter the second number: "))
+    u3 = int(input("Enter the third number: "))
+    print(u1+u2+u3)
+  elif(user_input == "2"):
+    u1 = int(input("Enter the first number: "))
+    u2 = int(input("Enter the second number: "))
+    print(u1*u2)
+  elif(user_input == "3"):
+    print("Goodbye") 
+  else:
+    print("invalid choice")   
 
 
 """ This should print out:

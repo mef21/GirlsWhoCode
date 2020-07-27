@@ -20,6 +20,10 @@ My neighbor likes X
 
 When you read the sentence across, you can replace the X with the value stored in X. 
 
+In order to store something in a variable in any computer programing language you will always have the name of the variable on the lefthand side and the value you want to store in the variable on the right hand side. 
+```python
+variables_are_cool = 10
+```
 ## In Python
 Variable Names:
 You can name any your variables whatever you like but you need to follow some rules that are listed below. 
@@ -43,22 +47,23 @@ You can name any your variables whatever you like but you need to follow some ru
 * Boolean: True or False expression
   * Ex: True, False, (7 > 0)
 
-#### In Python: Strings
+#### Strings:
 Strings need quotes around words:
-variable_name = "value"
+variable_name = "words, letters, or numbers"
 Ex:
 ```python
 favorite_food = "ice cream and french fries"
 ```
-#### In Python: Numbers:
-variable_name = value
+#### Numbers:
+variable_name = number value
 Ex:
 ```python
 five_as_an_integer = 5
 five_as_a_float = 5.0
 ```
-#### In Python: Boolean
-variable_name = value
+#### Booleans:
+variable_name = True or False
+Ex:
 ```python
 likes_ice_cream = True
 ```

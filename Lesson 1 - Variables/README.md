@@ -1,13 +1,16 @@
 # Variables
 Definition: Something that stores other things
 ## What is a Variable? 
+
+Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program.
+
 Here are three example sentences: 
 
 * I like ice cream and french fries
 * You like ice cream and french fries
 * My neighbor likes ice cream and french fries
 
-To change “ice cream and french fries” you have to change it in three different places (too much work)!
+To change “ice cream and french fries” you have to change it in three different places (too much work)! We can use a variable X instead to represent the repeated values. 
 
 X = ice cream and french fries
 
@@ -15,21 +18,28 @@ I like X
 You like X
 My neighbor likes X
 
+When you read the sentence across, you can replace the X with the value stored in X. 
+
 ## In Python
 Variable Names:
-* Separate words by _
-* Make them descriptive
+You can name any your variables whatever you like but you need to follow some rules that are listed below. 
+* Separate words by _ (NOT SPACES)
+* Make the variable name descriptive
+* try not to make them too long because you will need to type them many time
 * Cannot start with number or symbol (!, @, etc.)
 
-### In Python: Variable Types:
+### Python Variable Types:
+
 * Strings: collection of letters, numbers or symbols in double quotes
+  * Think of strings are words contained in double quotes
   * Ex: "Hello, my name is Maddy"
 * Chars: single letter, number, or symbol in single quotes
+  * Similar to strings but only one letter
   * Ex: 'a', ';', ' ', '!', etc.
 * Integer: Whole numbers
-  * Ex: 1, 5, 463836, 472, 36283
+  * Ex: 1, 5, 463836, -472, 36283
 * Floats: decimal numbers
-  * Ex: 0.0, 1.0, 1.5, 3.1483
+  * Ex: 0.0, -1.0, 1.5, 3.1483
 * Boolean: True or False expression
   * Ex: True, False, (7 > 0)
 

@@ -32,6 +32,8 @@ if(x < y):
 else:
   print("x is not less than y")
 ```
+For this block of code, "x is less than y" will get printed to the console. 
+
 ### Checking for Equality
 * We use one equals sign to assign a value to a variable
 ```python
@@ -51,6 +53,8 @@ if(x == y):
 else:
   print("x is not equal to y")
 ```
+For this block of code, "x is not equal to y" will get printed to the console. 
+
 #### Example without *else* statement
 * We can have an if statement without an else statement
 * When the condition in the if statement is false, nothing will happen
@@ -60,16 +64,21 @@ y = 10
 if(x == y):
   print("x is equal to y")
 ```
+For this block of code, nothing gets printed to the console. 
+
 ## In Python: elif
 * We just learned __if__ and __else__
 * There is another keyword called __elif__
 * __elif__ is used when we want to have if statements that get checked after the first if
 * __elif__ gets used between if an else and is used when you want additional checks after the condition in the first if statement fails
+
 ### Real Life Example:
 * __if__ you choose a burger for lunch, you pay $5
 * __elif__ you choose chicken nuggets for lunch, you pay $7
-* __else__, you don't deat anything for lunch and you don't pay
-In the above example you only get 1 of the 3 options. You cannot get both a burger and chicken nuggets
+* __else__, you don't eat anything for lunch and you don't pay
+
+In the above example you only get 1 of the 3 options. You cannot get both a burger and chicken nuggets. If you choose the burger, you stop checking the rest of the conditions and just pay. Only if you don't want a burger can you then move on to the next condition and ask yourself if you want chicken nuggets. 
+
 ### Python Example:
 ```python
 x = 5
@@ -81,6 +90,8 @@ elif(x == y):
 else:
   print("x is greater than y")
 ```
+For this block of code, "x is equal to y" gets printed to the console. 
+
 * You can have as many elif's as you want
 * Combos:
   * if
@@ -100,7 +111,7 @@ else:
 ```
 ## Boolean Operators
 ### Definition
-Boolean operators are symbols or words to represent English logic and make comparisons
+Boolean operators are symbols or words to represent English logic and make comparisons. We use these when writing conditions.
 ### Examples
 * 5 is __equal__ to 5
 * 4 is __less than__ 6
@@ -123,12 +134,13 @@ Boolean operators are symbols or words to represent English logic and make compa
   * if(4 <= 5)
   * if(5 >= 5)
 #### Operators and Parentheses
-* We use parentheses to make conditionals more readable adn the logic more clear
+* We use parentheses to make conditionals more readable and the logic more clear
 * Do things inside parentheses first
   * Like PEMDAS in math!
 * Examples:
-  * if( 4 + 9 + 9 == 9 * 2)
-  * if( (4 + 9 + 9) == (9 * 2))
+  * if( 4 + 9 + 9 == 9 * 2) #This looks confusing
+  * if( (4 + 9 + 9) == (9 * 2)) #now I understand I want to compare if 22 == 18
+  
 ### In Python: User Input
 #### How To:
 * Oftentimes you are going to want to ask the user for input and make decisions based on this input
@@ -140,6 +152,11 @@ if(answer == "Yes"):
 else:
   print("Don't be sad. Be GLAD")
 ```
+__English explaination of this code:__
+1. "Are you happy? " will be asked in the console
+2. *answer* will store the string variable that the user types in 
+3. The conditional will compare *answer* to "Yes". If the user typed in "Yes" in response to the question, "I'm glad you are happy! :)" will be printed to the console. Else, the user typed in anything else as their response, "Don't be sad. Be GLAD" will be printed to the console 
+
 ### In Python: Nesting
 * You can put if/elif/else statements inside other if/elif/else statements
 * Example:
